@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>arregloSalon.h</itemPath>
+      <itemPath>clase.h</itemPath>
+      <itemPath>fecha.h</itemPath>
+      <itemPath>gestorArchivos.h</itemPath>
+      <itemPath>gimnasio.h</itemPath>
+      <itemPath>instruccion.h</itemPath>
+      <itemPath>instructor.h</itemPath>
+      <itemPath>interfaz.h</itemPath>
+      <itemPath>listaClase.h</itemPath>
+      <itemPath>listaInstructor.h</itemPath>
+      <itemPath>listaRegistro.h</itemPath>
+      <itemPath>listaRutina.h</itemPath>
+      <itemPath>listaSocio.h</itemPath>
+      <itemPath>nodoClase.h</itemPath>
+      <itemPath>nodoInstructor.h</itemPath>
+      <itemPath>nodoRegistro.h</itemPath>
+      <itemPath>nodoRutina.h</itemPath>
+      <itemPath>nodoSocio.h</itemPath>
+      <itemPath>registro.h</itemPath>
+      <itemPath>rutina.h</itemPath>
+      <itemPath>salon.h</itemPath>
+      <itemPath>socio.h</itemPath>
+      <itemPath>utiles.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>arregloSalon.cpp</itemPath>
+      <itemPath>clase.cpp</itemPath>
+      <itemPath>fecha.cpp</itemPath>
+      <itemPath>gestorArchivos.cpp</itemPath>
+      <itemPath>gimnasio.cpp</itemPath>
+      <itemPath>instruccion.cpp</itemPath>
+      <itemPath>instructor.cpp</itemPath>
+      <itemPath>interfaz.cpp</itemPath>
+      <itemPath>listaClase.cpp</itemPath>
+      <itemPath>listaInstructor.cpp</itemPath>
+      <itemPath>listaRegistro.cpp</itemPath>
+      <itemPath>listaRutina.cpp</itemPath>
+      <itemPath>listaSocio.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+      <itemPath>nodoClase.cpp</itemPath>
+      <itemPath>nodoInstructor.cpp</itemPath>
+      <itemPath>nodoRegistro.cpp</itemPath>
+      <itemPath>nodoRutina.cpp</itemPath>
+      <itemPath>nodoSocio.cpp</itemPath>
+      <itemPath>registro.cpp</itemPath>
+      <itemPath>rutina.cpp</itemPath>
+      <itemPath>salon.cpp</itemPath>
+      <itemPath>socio.cpp</itemPath>
+      <itemPath>utiles.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="arregloSalon.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="arregloSalon.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="clase.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="clase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="fecha.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="fecha.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="gestorArchivos.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="gestorArchivos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="gimnasio.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="gimnasio.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="instruccion.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="instruccion.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="instructor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="instructor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="interfaz.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="interfaz.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="listaClase.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="listaClase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="listaInstructor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="listaInstructor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="listaRegistro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="listaRegistro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="listaRutina.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="listaRutina.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="listaSocio.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="listaSocio.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoClase.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoClase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="nodoInstructor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoInstructor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="nodoRegistro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoRegistro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="nodoRutina.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoRutina.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="nodoSocio.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoSocio.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="registro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="registro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="rutina.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="rutina.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="salon.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="salon.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="socio.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="socio.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="utiles.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utiles.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="arregloSalon.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="arregloSalon.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="clase.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="clase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="fecha.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="fecha.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="gestorArchivos.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="gestorArchivos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="gimnasio.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="gimnasio.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="instruccion.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="instruccion.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="instructor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="instructor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="interfaz.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="interfaz.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="listaClase.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="listaClase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="listaInstructor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="listaInstructor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="listaRegistro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="listaRegistro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="listaRutina.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="listaRutina.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="listaSocio.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="listaSocio.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoClase.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoClase.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="nodoInstructor.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoInstructor.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="nodoRegistro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoRegistro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="nodoRutina.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoRutina.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="nodoSocio.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="nodoSocio.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="registro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="registro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="rutina.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="rutina.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="salon.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="salon.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="socio.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="socio.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="utiles.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="utiles.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
